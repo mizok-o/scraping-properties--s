@@ -4,3 +4,6 @@
 ## 前提
 - pythonが使える環境
 - seleniumがインストール済み
+
+## 実行
+`python script.py`でスクレイピングを行う
